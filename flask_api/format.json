@@ -1,0 +1,21 @@
+{
+    "patient": {
+      "name": "John Doe",
+      "age": 45,
+      "gender": "male"
+    },
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500mg",
+        "colour": "red",
+        "timing": "after lunch"
+      },
+      {
+        "medicine": "Amoxicillin",
+        "dosage": "250mg",
+        "colour": "white",
+        "timing": ["before lunch", "after lunch"]
+      }
+   ]
+}
