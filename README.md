@@ -79,3 +79,10 @@ Upon parsing this, Llama produces the following JSON strin that contains the pre
     }
   ]
 }
+```
+## Authors
+
+[Aarya Bhave](https://www.linkedin.com/in/aarya-bhave-aa4a13256/?originalSubdomain=in)
+[Shubham Shinde](https://www.linkedin.com/in/shubhamshinde6762/)
+[Advait Joshi](https://www.linkedin.com/in/joshiadvait/)
+[Sachi Patankar](https://www.linkedin.com/in/sachi-patankar-33549b245/)
