@@ -23,7 +23,7 @@ In this section, we will walk through the PillChime Pipeline, and review content
 
 Consider the following medical prescription as an example:
 
---sachi's prescription--
+![Alt text](readme_dependencies/presc.jpeg)
 
 We have re-trained a version of [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) by using the method of **Partial-Layered Weights Freezing (PLWF)**, by adding a **temperature parameter** to **weight-decay** during training.
 
