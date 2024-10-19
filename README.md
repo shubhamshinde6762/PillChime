@@ -12,7 +12,7 @@ The user is required to simply upload an image of a medical prescription, and Pi
 
 The following is PillChime's HLD, that describes it's control flow and architecure:
 
---arch_image--
+![Alt text](readme_dependencies/wt_decay.jpg)
 
 One of the key features of our pipeline is that user data is always protected by a multi-layer protocol.
 ## PillChime Pipeline
@@ -49,7 +49,7 @@ L : Total loss function.
 
 The following are the text boxes generated on that prescription.
 
--- boxed_presc--
+![Alt text](readme_dependencies/boxed_presc.jpeg)
 
 The OCR model is able to recognise all the text within this, and presents the following string:
 
