@@ -1,8 +1,7 @@
 
 # PillChime - Never Miss a Dose!
 
-This is an easy, quick and one-stop solution to tracking medication dosages.   
-In this repository, we have developed a system that integrates itself with [Google Home](https://home.google.com/welcome/), using the [Google Cloud Console](https://console.cloud.google.com/welcome/new?pli=1) utility.  
+This is an easy, quick and one-stop solution to tracking medication dosages. In this repository, we have developed a system that integrates itself with [Google Home](https://home.google.com/welcome/), using the [Google Cloud Console](https://console.cloud.google.com/welcome/new?pli=1) utility.  
 Similarly, we also link it with [Amazon Alexa](https://alexa.amazon.com/) using the [Amazon Developer Console](https://developer.amazon.com/).
 
 This projects implements an optimized [LangChain](https://www.langchain.com/) pipeline, which makes use of the latest open-source large language model [Llama3.2 : 7b](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/), along with open-source [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR). 
