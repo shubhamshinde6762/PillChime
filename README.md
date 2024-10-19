@@ -12,7 +12,7 @@ The user is required to simply upload an image of a medical prescription, and Pi
 
 The following is PillChime's HLD, that describes it's control flow and architecure:
 
-![Alt text](readme_dependencies/wt_decay.jpg)
+
 
 One of the key features of our pipeline is that user data is always protected by a multi-layer protocol.
 ## PillChime Pipeline
@@ -27,7 +27,7 @@ Consider the following medical prescription as an example:
 
 We have re-trained a version of [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) by using the method of **Partial-Layered Weights Freezing (PLWF)**, by adding a **temperature parameter** to **weight-decay** during training.
 
--- wt_decay--
+![Alt text](readme_dependencies/wt_decay.jpg)
 
 L : Total loss function.
 
