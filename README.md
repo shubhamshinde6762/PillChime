@@ -11,7 +11,7 @@ The user is required to simply upload an image of a medical prescription, and Pi
 ## Architecture
 
 The following is PillChime's HLD, that describes it's control flow and architecure:
-
+![Alt text](readme_dependencies/arch.jpeg)
 
 
 One of the key features of our pipeline is that user data is always protected by a multi-layer protocol.
